@@ -1,0 +1,17 @@
+C:\Users\Tugba\Desktop\Event\Event\bin\Debug\net7.0-windows\Event.exe
+C:\Users\Tugba\Desktop\Event\Event\bin\Debug\net7.0-windows\Event.deps.json
+C:\Users\Tugba\Desktop\Event\Event\bin\Debug\net7.0-windows\Event.runtimeconfig.json
+C:\Users\Tugba\Desktop\Event\Event\bin\Debug\net7.0-windows\Event.dll
+C:\Users\Tugba\Desktop\Event\Event\bin\Debug\net7.0-windows\Event.pdb
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.csproj.AssemblyReference.cache
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.FrmMain.resources
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.csproj.GenerateResource.cache
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.dll
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\refint\Event.dll
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.pdb
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\Event.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Event\Event\obj\Debug\net7.0-windows\ref\Event.dll
